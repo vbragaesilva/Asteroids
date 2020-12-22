@@ -1,0 +1,24 @@
+{
+  "name": "asteroids",
+  "version": "5.0.0",
+  "description": "Asteroids reimagination",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eFrostByte/Asteroids.git"
+  },
+  "keywords": [
+    "asteroids",
+    "v5"
+  ],
+  "author": "bragaesilva, vinicius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eFrostByte/Asteroids/issues"
+  },
+  "homepage": "https://github.com/eFrostByte/Asteroids#readme"
+}
