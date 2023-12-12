@@ -2,7 +2,7 @@
 //const h = 400;
 var nina = false;
 var backgroundCol = 0;
-const hiscore_vbs = 15320;
+const hiscore_vbs = 21780;
 const w = 1350;
 const h = 575;
 var hud;
